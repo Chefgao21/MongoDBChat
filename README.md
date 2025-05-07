@@ -1,4 +1,4 @@
-# MongoDBChat
+
 # MongoDB Natural Language Interface
 
 ## Overview
